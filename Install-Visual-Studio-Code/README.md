@@ -13,10 +13,13 @@ This guide will help you set up a Python development environment using Visual St
 |---------------------------|
 | Windows, macOS, or Linux   | 
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text](image\image.png)
+
+![alt text](image\image-1.png)
+
+![alt text](image\image-2.png)
+
+![alt text](image\image-3.png)
 
 
 ## Step-by-Step Installation
@@ -27,23 +30,24 @@ This guide will help you set up a Python development environment using Visual St
 1. **Download the Installer**:  
    Click the link below to download the **Visual Studio Code** installer:  
    - 📥 [**Download Visual Studio Code**](https://code.visualstudio.com/)
-![alt text](image-4.png)
+![alt text](image\image-4.png)
  
 
 ### 🔧 Step 2: **Install Visual Studio Code**
 
 1. **Run the Installer**:  
    Double-click the downloaded file to start the installation process. 🖱️ 
-   ![alt text](image-5.png) 
+   ![alt text](image\image-5.png) 
 
 2. **Follow the Installation Instructions**:  
    ✔️ Follow the prompts in the installer to complete the installation.
-   ![alt text](image-6.png)
-   ![alt text](image-7.png)
+   ![alt text](image\image-6.png)
+
+   ![alt text](image\image-7.png)
 
 3. **Launch Visual Studio Code**:  
    🎉 Once installation is complete, launch **Visual Studio Code** from the Start Menu or desktop.
-   ![alt text](image-8.png)
+   ![alt text](image\image-8.png)
 
 ### 2. Install Python Extension for VS Code
 
@@ -51,20 +55,20 @@ This guide will help you set up a Python development environment using Visual St
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing 
 3. Search for "Python" and install the extension published by Microsoft.
 
-![alt text](image-9.png)
+![alt text](image\image-9.png)
 
 ### 3. Install Recommended Extensions
 
 - **Jupyter**: For running Jupyter Notebooks directly in VS Code.
-![alt text](image-10.png)
+![alt text](image\image-10.png)
 
 ### 4. Install Virtual Environment Support
 
 1. Open the integrated terminal in VS Code (`Ctrl+`` for Windows/Linux or `Cmd+`` for Mac).
-![alt text](image-11.png)
+![alt text](image\image-11.png)
 
 2. Create a virtual environment:
-![alt text](image-12.png)
+![alt text](image\image-12.png)
 
    ```
    cd C:\Users\<YourUsername>\AppData\Local\Programs\Python\Python<version>\
@@ -74,6 +78,8 @@ This guide will help you set up a Python development environment using Visual St
    ```
    python -m venv venv
    ```
+   ![alt text](image\image-13.png)
+
 3. Activate the virtual environment:
    - **Windows**: `venv\Scripts\activate`
    - **Mac/Linux**: `source venv/bin/activate`
@@ -81,24 +87,22 @@ This guide will help you set up a Python development environment using Visual St
    ```bash
    pip install --upgrade pip
    ```
-![alt text](image-13.png)
+![alt text](image\image-19.png)
 
 ### 5. Test Your Setup
 
 1. Create a new Python file:
-![alt text](image-14.png)
+![alt text](image\image-14.png)
 
-![alt text](image-15.png)
+![alt text](image\image-15.png)
 
    ```
    print("Hello, Python!")
    ```
-   ![alt text](image-16.png)
+   ![alt text](image\image-16.png)
 
-   ![alt text](image-17.png)
+   ![alt text](image\image-17.png)
 
 2. Run the file by pressing `F5` or right-clicking and selecting **Run Python File in Terminal**.
 
-![alt text](image-18.png)
-
-
+![alt text](image\image-18.png)
