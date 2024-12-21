@@ -1,4 +1,4 @@
-# **Khious.ai**
+# **Khipus.ai**
 # 📦 **Visual Studio Code Installation Guide**
 
 # Python Development Environment Setup on Visual Studio Code
@@ -13,7 +13,7 @@ This guide will help you set up a Python development environment using Visual St
 |---------------------------|
 | Windows, macOS, or Linux   | 
 
-
+![alt text](image.png)
 
 ## Step-by-Step Installation
 
