@@ -2,6 +2,8 @@
 
 # How to Clone a GitHub Repository Using GitHub Desktop
 
+# © Copyright Notice 2025, Khipus.ai - All Rights Reserved.
+
 This guide explains how to install GitHub Desktop and clone a repository step-by-step.
 
 ## Step 1: Install GitHub Desktop

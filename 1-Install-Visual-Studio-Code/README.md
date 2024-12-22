@@ -3,6 +3,8 @@
 
 # Python Development Environment Setup on Visual Studio Code
 
+# © Copyright Notice 2025, Khipus.ai - All Rights Reserved.
+
 This guide will help you set up a Python development environment using Visual Studio Code (VS Code),to ensure you have everything you need for your coding projects and tutorials! 💻💡
 
 ## 📥 **Prerequisites**
