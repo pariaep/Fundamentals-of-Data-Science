@@ -91,6 +91,19 @@ This guide will help you set up a Python development environment using Visual St
    ```
 ![alt text](images/image-19.png)
 
+4.1 Install NumPy package:
+   ```bash
+   pip install numpy
+   ```
+![alt text](images/image30.png)
+
+4.1 Install Pandas package:
+   ```bash
+   pip install pandas
+   ```
+![alt text](images/image31.png)
+
+
 ### 5. Test Your Setup
 
 1. Create a new Python file:
