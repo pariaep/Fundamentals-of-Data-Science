@@ -3,6 +3,8 @@
 
 # Python Development Environment Setup on Visual Studio Code
 
+# © Copyright Notice 2025, Khipus.ai - All Rights Reserved.
+
 This guide will help you set up a Python development environment using Visual Studio Code (VS Code),to ensure you have everything you need for your coding projects and tutorials! 💻💡
 
 ## 📥 **Prerequisites**
@@ -88,6 +90,19 @@ This guide will help you set up a Python development environment using Visual St
    pip install --upgrade pip
    ```
 ![alt text](images/image-19.png)
+
+4.1 Install NumPy package:
+   ```bash
+   pip install numpy
+   ```
+![alt text](images/image30.png)
+
+4.1 Install Pandas package:
+   ```bash
+   pip install pandas
+   ```
+![alt text](images/image31.png)
+
 
 ### 5. Test Your Setup
 
