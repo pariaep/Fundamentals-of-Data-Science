@@ -117,7 +117,7 @@ This guide will help you set up a Python development environment using Visual St
 4.6 Install seaborn package:
    ```bash
    pip install seaborn 
-
+   ```
 ### 5. Test Your Setup
 
 1. Create a new Python file:
