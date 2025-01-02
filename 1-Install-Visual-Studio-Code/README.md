@@ -97,12 +97,26 @@ This guide will help you set up a Python development environment using Visual St
    ```
 ![alt text](images/image30.png)
 
-4.1 Install Pandas package:
+4.2 Install Pandas package:
    ```bash
    pip install pandas
    ```
 ![alt text](images/image31.png)
-
+4.3 Install Matplotlib package:
+   ```bash
+   pip install matplotlib
+   ```
+4.4 Install seaborn package:
+   ```bash
+   pip install seaborn 
+   ```
+4.5 Install pip install statsmodels:
+   ```bash
+   pip install statsmodels
+   ```
+4.6 Install seaborn package:
+   ```bash
+   pip install seaborn 
 
 ### 5. Test Your Setup
 
