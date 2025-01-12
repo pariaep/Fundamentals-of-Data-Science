@@ -122,7 +122,12 @@ This guide will help you set up a Python development environment using Visual St
    ```bash
    python -m pip install nbconvert
    ```
-   
+ 4.8 Install Notebook Converter package:
+   ```bash
+   pip install notebook
+
+   ```  
+
 ### 5. Test Your Setup
 
 1. Create a new Python file:
