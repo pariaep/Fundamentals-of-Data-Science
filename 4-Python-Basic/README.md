@@ -25,8 +25,6 @@ This guide explains how to export of a Jupyter notebook to PDF in Visual Studio 
 ![alt text](images/image-17.png)
 ![alt text](images/image-18.png)
 
-
-
 3. Verify Installations
 Run the following commands in a terminal to verify that both tools are installed correctly:
    ```bash
@@ -67,6 +65,8 @@ Select "Export": From the dropdown menu that appears, the user clicks on the Exp
 
 
 ![alt text](images/image-24.png)
+
+![alt text](images/image31.png)
 
 Note: The first time, the process will take about 5 minutes or more, depending on your internet speed
 
