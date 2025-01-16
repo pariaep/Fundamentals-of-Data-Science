@@ -114,15 +114,11 @@ This guide will help you set up a Python development environment using Visual St
    ```bash
    pip install statsmodels
    ```
-4.6 Install seaborn package:
-   ```bash
-   pip install seaborn 
-   ```
-4.7 Install Notebook Converter package:
+4.6 Install Notebook Converter package:
    ```bash
    python -m pip install nbconvert
    ```
- 4.8 Install Notebook Converter package:
+4.7 Install Notebook Converter package:
    ```bash
    pip install notebook
 
