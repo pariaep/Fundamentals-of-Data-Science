@@ -15,14 +15,19 @@ This guide will help you set up a Python development environment using Visual St
 |---------------------------|
 | Windows, macOS, or Linux   | 
 
-![alt text](images/image.png)
+![alt text](images/mac-1.png)
 
-![alt text](images/image-1.png)
+![alt text](images/mac-2.png)
 
-![alt text](images/image-2.png)
+![alt text](images/mac-3.png)
 
-![alt text](images/image-3.png)
+![alt text](images/mac-4.png)
 
+![alt text](images/mac-5.png)
+
+![alt text](images/mac-6.png)
+
+![alt text](images/mac-7.png)
 
 ## Step-by-Step Installation
 
@@ -32,24 +37,19 @@ This guide will help you set up a Python development environment using Visual St
 1. **Download the Installer**:  
    Click the link below to download the **Visual Studio Code** installer:  
    - 📥 [**Download Visual Studio Code**](https://code.visualstudio.com/)
-![alt text](images/image-4.png)
+![alt text](images/mac-8.png)
  
 
 ### 🔧 Step 2: **Install Visual Studio Code**
 
 1. **Run the Installer**:  
    Double-click the downloaded file to start the installation process. 🖱️ 
-   ![alt text](images/image-5.png) 
+   ![alt text](images/mac-9.png) 
 
 2. **Follow the Installation Instructions**:  
    ✔️ Follow the prompts in the installer to complete the installation.
-   ![alt text](images/image-6.png)
+   ![alt text](images/mac-10.png)
 
-   ![alt text](images/image-7.png)
-
-3. **Launch Visual Studio Code**:  
-   🎉 Once installation is complete, launch **Visual Studio Code** from the Start Menu or desktop.
-   ![alt text](images/image-8.png)
 
 ### 2. Install Python Extension for VS Code
 
@@ -57,30 +57,28 @@ This guide will help you set up a Python development environment using Visual St
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or pressing 
 3. Search for "Python" and install the extension published by Microsoft.
 
-![alt text](images/image-9.png)
+![alt text](images/mac-11.png)
 
 ### 3. Install Recommended Extensions
 
 - **Jupyter**: For running Jupyter Notebooks directly in VS Code.
-![alt text](images/image-10.png)
+![alt text](images/mac-12.png)
 
 ### 4. Install Virtual Environment Support
 
 1. Open the integrated terminal in VS Code (`Ctrl+`` for Windows/Linux or `Cmd+`` for Mac).
-![alt text](images/image-11.png)
+![alt text](images/mac-13.png)
 
 2. Create a virtual environment:
-![alt text](images/image-12.png)
+![alt text](images/mac-14.png)
 
    ```
-   cd C:\Users\<YourUsername>\AppData\Local\Programs\Python\Python<version>\
 
-   Example:cd C:\Users\admin2024\AppData\Local\Programs\Python\Python313\
+   Example: admin@Admin_MacBook-Pro ~ %
    ```
    ```
-   python -m venv venv
+   python -m venv .venv
    ```
-   ![alt text](images/image-13.png)
 
 3. Activate the virtual environment:
    - **Windows**: `venv\Scripts\activate`
@@ -89,19 +87,19 @@ This guide will help you set up a Python development environment using Visual St
    ```bash
    pip install --upgrade pip
    ```
-![alt text](images/image-19.png)
+![alt text](images/mac-15.png)
 
 4.1 Install NumPy package:
    ```bash
    pip install numpy
    ```
-![alt text](images/image30.png)
+![alt text](images/mac-16.png)
 
 4.2 Install Pandas package:
    ```bash
    pip install pandas
    ```
-![alt text](images/image31.png)
+![alt text](images/mac-17.png)
 4.3 Install Matplotlib package:
    ```bash
    pip install matplotlib
@@ -114,15 +112,11 @@ This guide will help you set up a Python development environment using Visual St
    ```bash
    pip install statsmodels
    ```
-4.6 Install seaborn package:
-   ```bash
-   pip install seaborn 
-   ```
-4.7 Install Notebook Converter package:
+4.6 Install Notebook Converter package:
    ```bash
    python -m pip install nbconvert
    ```
- 4.8 Install Notebook Converter package:
+ 4.7 Install Notebook Converter package:
    ```bash
    pip install notebook
 
@@ -131,17 +125,19 @@ This guide will help you set up a Python development environment using Visual St
 ### 5. Test Your Setup
 
 1. Create a new Python file:
-![alt text](images/image-14.png)
+![alt text](images/mac-18.png)
 
-![alt text](images/image-15.png)
+![alt text](images/mac-19.png)
+
+![alt text](images/mac-20.png)
+
+![alt text](images/mac-21.png)
+
 
    ```
    print("Hello, Python!")
    ```
-   ![alt text](images/image-16.png)
 
-   ![alt text](images/image-17.png)
+2. Run the file:
 
-2. Run the file by pressing `F5` or right-clicking and selecting **Run Python File in Terminal**.
-
-![alt text](images/image-18.png)
+![alt text](images/mac-22.png)
