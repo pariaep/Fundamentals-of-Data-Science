@@ -11,11 +11,12 @@ This guide explains how to install GitHub Desktop and clone a repository step-by
    - Visit [https://desktop.github.com/download/](https://desktop.github.com/download/).
    - Click the **Download for [your OS]** button.
 
-   ![alt text](images/image.png)
+   ![alt text](images/mac-1.png)
 
 2. **Install GitHub Desktop**:
    - Open the downloaded installer file.
-   ![alt text](images/image-1.png)
+   ![alt text](images/mac-2.png)
+   ![alt text](images/mac-3.png)
 
    - Follow the installation prompts for your operating system.
 
