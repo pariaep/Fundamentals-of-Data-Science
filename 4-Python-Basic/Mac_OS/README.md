@@ -10,20 +10,23 @@ This guide explains how to export of a Jupyter notebook to PDF in Visual Studio 
 ## Export Jupyter Notebook to PDF
 
 1. Download and install Pandoc from: https://github.com/jgm/pandoc/releases/tag/3.6.1
-![alt text](images/image-19.png)
-![alt text](images/image-20.png)
+![alt text](images/mac_1.png)
+![alt text](images/mac_2.png)
+![alt text](images/mac_3.png)
+![alt text](images/mac_4.png)
+![alt text](images/mac_5.png)
 
-2. Download and install MikTeX: https://miktex.org/download
+3. Download and install MikTeX: https://miktex.org/download
 
-![alt text](images/image-5.png)
-![alt text](images/image-8.png)
-![alt text](images/image-9.png)
-![alt text](images/image-10.png)
-![alt text](images/image-11.png)
-![alt text](images/image-12.png)
-![alt text](images/image-13.png)
-![alt text](images/image-17.png)
-![alt text](images/image-18.png)
+![alt text](images/mac_6.png)
+![alt text](images/mac_7.png)
+![alt text](images/mac_8.png)
+![alt text](images/mac_9.png)
+![alt text](images/mac_10.png)
+![alt text](images/mac_11.png)
+![alt text](images/mac_12.png)
+![alt text](images/mac_13.png)
+![alt text](images/mac_14.png)
 
 3. Verify Installations
 Run the following commands in a terminal to verify that both tools are installed correctly:
@@ -55,7 +58,7 @@ Select "Export": From the dropdown menu that appears, the user clicks on the Exp
 
 5. Save the notebook 
 
-![alt text](images/image-2.png)
+![alt text](images/mac_15.png)
 
 6. Install the missing packages.
 
