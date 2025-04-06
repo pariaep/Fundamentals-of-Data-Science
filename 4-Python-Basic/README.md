@@ -72,14 +72,14 @@ Note: The first time, the process will take about 5 minutes or more, depending o
 
 8. You have your pdf file ready:
 
-![alt text](images/image-25.png)
 
+![alt text](images/image-26.png)
 
 ## Upload the PDF file to the Khipus.ai Virtual Campus: 
 
 1. Logs into the Khipus.ai platform using your credentials https://campus.khipus.ai/login/index.php
 
-![alt text](images/image-26.png)
+![alt text](images/image-48.png)
 
 2. Navigate to the "Actividades" (Activities) section under "Unidad 3: Introducción a Python" and select the "Trabajo práctico Unidad 3" 
 ![alt text](images/image-43.png)
