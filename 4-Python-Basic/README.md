@@ -44,18 +44,18 @@ Run the following commands in a terminal to verify that both tools are installed
 
 ![alt text](images/image.png)
 
-
 6. Access the Options Menu: The user clicks on the ... (three dots) menu located at the top-right corner of the notebook interface.
 
 Select "Export": From the dropdown menu that appears, the user clicks on the Export option.
 
-![alt text](images/image-14.png)
-![alt text](images/image-15.png)
+![alt text](images/image-40.png)
+![alt text](images/image-41.png)
 
 
 5. Save the notebook 
 
-![alt text](images/image-2.png)
+![alt text](images/image-42.png)
+
 
 6. Install the missing packages.
 
@@ -74,17 +74,20 @@ Note: The first time, the process will take about 5 minutes or more, depending o
 
 ![alt text](images/image-25.png)
 
+
 ## Upload the PDF file to the Khipus.ai Virtual Campus: 
 
 1. Logs into the Khipus.ai platform using your credentials https://campus.khipus.ai/login/index.php
 
 ![alt text](images/image-26.png)
 
-2. Navigate to the "Actividades" (Activities) section under "Unidad 1: Introducción a la Ciencia de Datos." and select the "Trabajo práctico Unidad 1" 
-![alt text](images/image-27.png)
+2. Navigate to the "Actividades" (Activities) section under "Unidad 3: Introducción a Python" and select the "Trabajo práctico Unidad 3" 
+![alt text](images/image-43.png)
+
 
 3. Click "Agregar entrega" (Add Submission) button to start the process of submitting the assignment.
-![alt text](images/image-28.png)
+![alt text](images/image-44.png)
+![alt text](image-45.png)
 
 4. "Choose File" and selects the PDF file
 
